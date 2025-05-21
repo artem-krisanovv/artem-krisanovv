@@ -1,4 +1,6 @@
-<h1 align="center">Крисанов Артем</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer+from+Russia;Swift+Enthusiast;Building+BrainBoost+App&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=20" />
+</p>
 
 <p align="center">
   iOS разработчик
