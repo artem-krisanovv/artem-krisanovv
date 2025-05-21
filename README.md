@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=iOS+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&width=450&lines=iOS+Developer" />
 </p>
 
 
@@ -13,7 +13,6 @@
   iOS developer focused on clean architecture, intuitive interfaces, and continuous growth.  
   I build things that are simple, useful, and polished.
 </p>
----
 
 ### 🧰 Steck
 
