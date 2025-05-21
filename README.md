@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer;Swift+Enthusiast;Krisanov+Artemp&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=20" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=iOS+Developer />
 </p>
 
 ---
