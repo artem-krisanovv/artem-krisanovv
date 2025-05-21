@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋</h1>
 
 <p align="center">
-  iOS разработчик-новичок с опытом в техподдержке <strong>Ozon</strong> и большим желанием расти в IT.
+  iOS разработчик
 </p>
 
 ---
@@ -29,8 +29,7 @@
 
 ### 🔗 Полезные ссылки
 
-- 💼 LinkedIn (добавлю позже)
-- 
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akrisanovv)
 ---
 
 ### 📈 GitHub Stats
@@ -43,5 +42,5 @@
 ---
 
 <p align="center">
-  <em>Сделано с ❤️ и амбициями.</em>
+  <em>❤️</em>
 </p>
