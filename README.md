@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋</h1>
+<h1 align="center">Крисанов Артем</h1>
 
 <p align="center">
   iOS разработчик
