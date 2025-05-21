@@ -1,22 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer+from+Russia;Swift+Enthusiast;Building+BrainBoost+App&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer;Swift+Enthusiast;Krisanov+Artemp&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=20" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Artem%20Krisanov&fontAlign=center&fontColor=ffffff&color=gradient" />
 </p>
 
 <p align="center">
-  iOS разработчик
+  iOS developer focused on clean architecture, intuitive interfaces, and continuous growth.  
+  I build things that are simple, useful, and polished.
 </p>
-
 ---
 
-### 🧠 Немного обо мне:
- 
-- 🚀 Учусь iOS-разработке на языке **Swift**  
-- 🛠 Сейчас работаю в **Ozon** 
-- 🎯 Цель: попасть в команду разработки Ozon Tech  
-
----
-
-### 🧰 Стек
+### 🧰 Steck
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white" />
@@ -29,7 +27,7 @@
 
 ---
 
-### 🔗 Полезные ссылки
+### 🔗 Contact
 
 - [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akrisanovv)
 ---
